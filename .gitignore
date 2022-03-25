@@ -12,7 +12,9 @@
 /build
 
 # misc
+.env
 .psd
+.png
 .DS_Store
 .env.local
 .env.development.local
